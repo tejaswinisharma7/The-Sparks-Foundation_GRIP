@@ -1,5 +1,5 @@
 # The-Sparks-Foundation_GRIP
-Task #3 Exploratory Data Analysis- Retail (Level- Beginner) 
+Task #3 Exploratory Data Analysis- Retail 
 
 Perform EDA on dataset "SampleSuperstore"
 
@@ -11,7 +11,7 @@ You can choose any of the tools of your choice (Python/R/PowerBI/Tableau/Excel/S
 
 Dataset : https://bit.ly/3i4rbWl
 
-Biginner level : Create dashboards
+Create dashboards
 
 Screen record along with your audio explaining the chartsand interpretation
 
