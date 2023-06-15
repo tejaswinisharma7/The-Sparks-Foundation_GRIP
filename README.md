@@ -1,4 +1,4 @@
-# The-Sparks-Foundation_GRIP_Task 1
+# The-Sparks-Foundation_GRIP
 Task #3 Exploratory Data Analysis- Retail 
 
 Perform EDA on dataset "SampleSuperstore"
